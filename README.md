@@ -1,7 +1,9 @@
-# Hi, I'm Sam
+# Sam at Radial Path
 
-I'm a director at [Radial Path](https://www.radialpath.com/), looking after operations and technology.
+I'm a director at [Radial Path](https://www.radialpath.com/), where I look after operations and technology.
 
-I like getting stuck into a problem and making something useful out of it. Much of my work involves building tools for the team and our clients, or finding a simpler way to get things done.
+I work with the team on websites, reporting tools and AI workflows for B2B clients. I like getting stuck into a problem and making something useful out of it.
 
-This is my work account. For my side projects and AI experiments, head over to [@syamsulrozmey](https://github.com/syamsulrozmey).
+[See Radial Path's work](https://radialpath.com/work) for public examples of what the team builds.
+
+My personal projects and AI experiments are on [@syamsulrozmey](https://github.com/syamsulrozmey).
