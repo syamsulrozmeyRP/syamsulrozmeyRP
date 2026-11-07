@@ -1,5 +1,7 @@
-# Sam Rozmey at Radial Path
+# Hi, I'm Sam
 
-I'm a director at [Radial Path](https://www.radialpath.com/), where I work on operations, technology and B2B growth. This account is for the work I do with the team.
+I'm a director at [Radial Path](https://www.radialpath.com/), looking after operations and technology.
 
-My personal projects are on [@syamsulrozmey](https://github.com/syamsulrozmey).
+I like getting stuck into a problem and making something useful out of it. Much of my work involves building tools for the team and our clients, or finding a simpler way to get things done.
+
+This is my work account. For my side projects and AI experiments, head over to [@syamsulrozmey](https://github.com/syamsulrozmey).
